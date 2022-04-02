@@ -41,7 +41,7 @@ GitHub repo : https://github.com/faisalk2/unit-2-project
 
 Netlify link : https://extraordinary-croquembouche-a2ee60.netlify.app/                           
 
-Medium Blog link : https://medium.com/@faisal.z.khan5538/collaborative-project-at-masai-school-hometo-go-clone-7d2aa538064a
+Medium Blog link : https://medium.com/@faisal.z.khan5538/collaborative-project-at-masai-school-hometo-go-clone-80f42ca71687
 
 Md Owais Athar:-
 Owais responsibilities were focused on building the homepage of the website.
